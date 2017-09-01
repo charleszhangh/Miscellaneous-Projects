@@ -1,4 +1,4 @@
-# osu_software_1
+# miscellaneous_projects
 This folder contains all miscellaneous projects I have worked on in the past.
 Projects include:
 - AppendUndoGUI
